@@ -1,2 +1,1 @@
-# Lab_agile-planning
-Lab for agile planning
+agile-final-project
